@@ -349,3 +349,9 @@
 - [DopplerHQ님의 awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [JaeYeopHan님의 Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [WeareSoft님의 tech-interview](https://github.com/WeareSoft/tech-interview)
+
+
+
+---
+위 규칙은 다음 레포지토리를 참고해서 제작하였습니다.
+https://github.com/boost-devs/ai-tech-interview에서 
