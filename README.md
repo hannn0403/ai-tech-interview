@@ -341,10 +341,6 @@
 
 ## Contributors
 
-<a href="https://github.com/boostcamp-ai-tech-4/ai-tech-interview/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=boostcamp-ai-tech-4/ai-tech-interview" />
-</a>
-
 ---
 
 ## References
